@@ -1,0 +1,47 @@
+@media all and (max-width: 1000px) {
+  h1{
+    font-size: 20px;
+  }
+  .lesson {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+ 
+ 
+
+
+@media all and (max-width: 670px) {
+  h1{
+    font-size: 15px;
+  }
+  .lesson {
+    width: 100%;
+  }
+  
+  footer {
+    text-align: center;
+  }
+ 
+  .btn-wrapper{
+    width: 100%;
+  }
+ 
+  .top-wrapper {
+    text-align: left;
+  }
+  .header-right {
+    display: none;
+  }
+  .menu-icon {
+    display: block;
+  }
+  .top-wrapper h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .top-wrapper p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+}
